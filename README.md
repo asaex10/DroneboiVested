@@ -1,5 +1,7 @@
 # DroneboiVested
 
+Discord: https://dsc.gg/vested
+
 ### todo:
 - [ ] griefer highlight
 - [ ] pvp off mode (disable all damage)
