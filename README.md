@@ -4,7 +4,6 @@ Discord: https://dsc.gg/vested
 
 ### todo:
 - [ ] griefer highlight
-- [ ] pvp off mode (disable all damage)
 - [ ] multi-client support (random userid)
 - [X] sell all for ore
 - [X] more blocks in sandbox
