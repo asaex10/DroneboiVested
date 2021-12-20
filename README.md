@@ -1,6 +1,6 @@
 # DroneboiVested
 
-Discord: https://dsc.gg/vested
+Discord: https://dsc.gg/stardust
 
 ### todo:
 - [ ] griefer highlight
